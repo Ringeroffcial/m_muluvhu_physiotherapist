@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../components/header';
+import Header from '../components/Header';
 import Hero from '../components/Hero';
 import Services from '../components/Services';
 const App = () => {
@@ -7,7 +7,6 @@ const App = () => {
     <>
       {/*Header Goes here*/}
       <Header/>
-
       <div>
         <Hero/>
         <Services/>
