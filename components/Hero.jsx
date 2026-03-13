@@ -19,11 +19,11 @@ const Hero = () => {
         <div className="hero-text">
 
           <h1 className="hero-title">
-            Welcome to <span className="highlight">Muluvhu's Physiotherapy Abode</span>
+            Welcome to <span className="highlight">M Muluvhu's Physiotherapy Abode</span>
           </h1>
 
           <h2 className="hero-greeting">
-            Hi there 👋 I'm <span className="highlight">Muluvhu</span>, here to assist you.
+            Hi there 👋 I'm <span className="highlight">Mpho Muluvhu</span>, here to assist you.
           </h2>
 
           <p className="hero-subtitle">
