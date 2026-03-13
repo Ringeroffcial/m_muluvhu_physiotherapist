@@ -30,17 +30,6 @@ const Hero = () => {
             Expert care for pain relief, rehabilitation, and optimal physical health.
             Helping you move better and live a healthier life.
           </p>
-
-          {/* <div className="hero-cta">
-            <button className="btn-primary" onClick={handlekClick}>
-              Book Appointment
-            </butBooton>
-
-            <button className="btn-secondary" onClick={handleLearnMore}>
-              Our Services
-            </button>
-          </div> */}
-
         </div>
 
         {/* RIGHT SIDE IMAGE */}
